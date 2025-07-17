@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open-source frontend and data analysis projects.
 - 🤔 I’m looking for help with advanced React features and integrating AI in web apps.
 - 💬 Ask me about web development, Python, or getting started with AI/ML!
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/yourprofile) | Email: your.email@example.com
-- 😄 Pronouns: He/Him
+- 📫 How to reach me: LinkedIn: www.linkedin.com/in/priyantu-das-antu-7643572b8 | 
 - ⚡ Fun fact: I love building real-world projects that solve local problems.
 
